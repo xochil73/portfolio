@@ -1639,8 +1639,24 @@
 
 			#main > section.one {
 				background-color: #81918E;
-				background-image: url("/images/fremontresized.jpg");
-			}
+        
+
+      }
+
+      .carousel-img1{
+        background-image: url("../../images/oceanSeabrook.jpg") !important;
+
+      }
+
+      .carousel.img2{
+        background-image: url("../../images/greenlakeSunset.jpg") !important;
+
+      }
+
+      .carousel-img3{
+        background-image: url("../../images/palouseSunset.jpg") !important;
+
+      }
 
 			#main > section.two {
 				background-color: #f5fafa;
